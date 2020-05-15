@@ -1,0 +1,6 @@
+KUBERNETES_TOKEN=
+X_KUBERNETES_MASTER=
+X_USERNAME=dnarasim248
+X_PASSWORD=XXXX
+X_IMAGE_BASE=testwercker-nginx
+X_CNT_NAME="testwercker-cnt"

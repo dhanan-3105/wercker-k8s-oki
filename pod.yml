@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     run: new-pod1
-  name: new-pod1
+  name: new-pod1-dj
   namespace: demo-lab01
 spec:
   containers:
@@ -16,7 +16,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: rest-simpleapp-svc
+  name: rest-simpleapp-svc-dj
   namespace: demo-lab01
 spec:
   type: LoadBalancer
